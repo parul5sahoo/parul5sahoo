@@ -3,7 +3,6 @@ I am Parul Sahoo and IT undergrad.
 
 
 
-
 - 🔭 I’m currently working on DS-Algo
 - 🌱 I’m currently learning how to contribute in open source
 - 👯 I’m looking to develop expertise in graphic and UI/UX designing 
