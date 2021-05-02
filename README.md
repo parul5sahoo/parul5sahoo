@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Parul Sahoo and IT undergrad.
+I am Parul Sahoo a Computer Science and Engineering undergrad.
 
 
 
