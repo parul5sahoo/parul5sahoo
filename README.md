@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/parulsahoo" target="blank"><img src="https://img.shields.io/twitter/follow/parulsahoo?logo=twitter&style=for-the-badge" alt="parulsahoo" /></a> </p>
 
-- 🔭 I’m currently working on **Kubernetes 1.24 Release and have served as a shadow in the v1.23 Release**
+- 🔭 I’m currently working on **Kubernetes 1.25 Enhancements and have served as a shadow in the Kubernetes 1.24 Release & v1.23 Release cycles.**
 
 - 👯 I’m looking to collaborate on **Blockchain Development**
 
