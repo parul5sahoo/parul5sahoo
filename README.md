@@ -17,9 +17,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parulsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parulsahoo" height="30" width="40" /></a>
-<a href="https://dev.to/parul5sahoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="parul5sahoo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parul-sahoo-4bb8301a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parul-sahoo-4bb8301a0" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Blogs and Designs at:</h3>
+<p align="left">
 <a href="https://www.behance.net/parulsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="parulsahoo" height="30" width="40" /></a>
+<a href="https://dev.to/parul5sahoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="parul5sahoo" height="30" width="40" /></a>
 <a href="https://medium.com/@parulsahoo5jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parulsahoo5jan" height="30" width="40" /></a>
 </p>
 
