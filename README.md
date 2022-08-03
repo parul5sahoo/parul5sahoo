@@ -29,14 +29,14 @@
 
 ### Worked On 
 
-### ➤ [LFX Mentee for Spring'22](https://mentorship.lfx.linuxfoundation.org/project/0e4c9797-2dc5-4621-b46a-f1b7371a2495): </br>
+### ➤ [LFX Mentee for Summer'22](https://mentorship.lfx.linuxfoundation.org/project/0e4c9797-2dc5-4621-b46a-f1b7371a2495): </br>
 <IMG SRC="https://upload.wikimedia.org/wikipedia/commons/e/ed/Linux_Foundation_Logo.svg" ALIGN="left" width="70" height="70" /> LFX mentorship is a program under CNCF which promotes adoption, innovation and sustainability of open source. I have been selected to serve as a mentee to [Crossplane](https://crossplane.io/) for the Summer of 2022. Here I worked on adding automated tests for pulling private packages that are supported by Crossplane.
 
-### ➤ [Kubernetes 1.24 & 1.23 Release Team Shadow](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.23/release-team.md): </br> 
+### ➤ [Kubernetes Release Team Member](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.23/release-team.md): </br> 
 <IMG SRC="https://raw.githubusercontent.com/kubernetes/sig-release/master/releases/release-1.23/kubernetes-1.23-the-next-frontier-500px.png" ALIGN="left" width="70" height="70" />The Shadow system is an apprenticeship model. Shadows on the release team work under the team leads and learn the different roles performed by the team during a release cycle. I have served as a Release Notes Shadow for v1.23 & v1.24 and as an Enhancements shadow for v1.25.
 
 ### ➤ [Launchnodes](https://www.launchnodes.com/): </br>
-<IMG SRC="https://www.launchnodes.com/wp-content/uploads/2021/08/logo_launchnodes.svg" ALIGN="left" width="70" height="70" /> Worked on managing Beacon nodes on AWS using CloudFormation Templates. And conducted research on Interneet of Blockchains to help expand the scope of the project's application.
+<IMG SRC="https://www.launchnodes.com/wp-content/uploads/2021/08/slide-7.svg" ALIGN="left" width="70" height="70" /> Worked on managing Beacon nodes on AWS using CloudFormation Templates. And conducted research on Interneet of Blockchains to help expand the scope of the project's application.
 
 <br>
 
