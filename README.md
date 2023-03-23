@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul5sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="parul5sahoo" /> </p>
 
 
-- 🔭 I’m currently working on **Kubernetes 1.25 Enhancements and have served as a shadow in the Kubernetes 1.24 Release & v1.23 Release cycles.**
+- 🔭 I’ve been on **Kubernetes v1.26 & v1.25 as an Enhancements shadow and have served as a Release Notes shadow in the Kubernetes v1.24 & v1.23 Release cycles.**
 
 - 👯 I’m looking to collaborate on **Blockchain Development**
 
